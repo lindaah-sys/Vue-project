@@ -25,19 +25,19 @@ const variants = ref([
   {
     id: 2234,
     color: 'green',
-    image: 'https://via.placeholder.com/400x400/228B22/FFFFFF?text=Green+Socks',
+    image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzIyOEIyMiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjI0IiBmaWxsPSIjRkZGRkZGIj5WdWUgTWFzdGVyeSBTb2NrczwvdGV4dD48L3N2Zz4=',
     quantity: 10
   },
   {
     id: 2235,
     color: 'blue',
-    image: 'https://via.placeholder.com/400x400/0000FF/FFFFFF?text=Blue+Socks',
+    image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iIzAwMDBGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjI0IiBmaWxsPSIjRkZGRkZGIj5WdWUgTWFzdGVyeSBTb2NrczwvdGV4dD48L3N2Zz4=',
     quantity: 0
   },
   {
     id: 2236,
     color: 'red',
-    image: 'https://via.placeholder.com/400x400/FF0000/FFFFFF?text=Red+Socks',
+    image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCIgZmlsbD0iI0ZGMDAwMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LXNpemU9IjI0IiBmaWxsPSIjRkZGRkZGIj5WdWUgTWFzdGVyeSBTb2NrczwvdGV4dD48L3N2Zz4=',
     quantity: 5
   }
 ])
